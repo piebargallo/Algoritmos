@@ -4,4 +4,4 @@ They also include a number of counting algorithms.
 Search algorithms, these algorithms do not require the sequence to be sorted. N is the size of the sequence
 to search in, and M is the size of the pattern to find.
 
-Literatura consultada C++ Professional by Marc Gregoire y ChatGPT.
+Literatura consultada C++ Professional by Marc Gregoire, ChatGPT y cppreference.com
