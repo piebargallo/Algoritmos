@@ -31,7 +31,7 @@ int main()
     
     if (none_of(cbegin(v), cend(v), std::bind(std::modulus<>(),
         std::placeholders::_1, 2))) {
-        std::cout << "Ninguno es non\n";
+        std::cout << "Ninguno es non" << std::endl;
     }
     return 0;
 }
