@@ -9,4 +9,11 @@ Comparison algorithms.
 
 OtherAlgorithms.
 
+
+
+
+Modifying sequence algorithms, mofify some or all of the elements in a sequence. Some of them modify elements in 
+place so that the original sequence changes. Others copy the results to a different sequence so that the original
+sequebce remains unchanger. All of them have a linear worst-case complexity.
+
 Literatura consultada C++ Professional by Marc Gregoire, ChatGPT y cppreference.com
