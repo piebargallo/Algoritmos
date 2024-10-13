@@ -7,4 +7,6 @@ to search in, and M is the size of the pattern to find.
 
 Comparison algorithms.
 
+OtherAlgorithms.
+
 Literatura consultada C++ Professional by Marc Gregoire, ChatGPT y cppreference.com
