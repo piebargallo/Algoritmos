@@ -1,3 +1,5 @@
+// algorithm name: shift_left
+
 #include <iostream>
 #include <vector>
 
