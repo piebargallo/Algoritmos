@@ -16,4 +16,8 @@ Modifying sequence algorithms, mofify some or all of the elements in a sequence.
 place so that the original sequence changes. Others copy the results to a different sequence so that the original
 sequebce remains unchanger. All of them have a linear worst-case complexity.
 
+Partition algorithms, a sequence is partitioned on  acertain predicate, if all elements for wich the predicate
+returns true are before all elements for wich it returns false. The first element in the sequence that does
+not satisfy the predicate is called the particular point.
+
 Literatura consultada C++ Professional by Marc Gregoire, ChatGPT y cppreference.com
