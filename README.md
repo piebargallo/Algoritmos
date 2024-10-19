@@ -20,4 +20,6 @@ Partition algorithms, a sequence is partitioned on  acertain predicate, if all e
 returns true are before all elements for wich it returns false. The first element in the sequence that does
 not satisfy the predicate is called the particular point.
 
+Sorting algorithms.
+
 Literatura consultada C++ Professional by Marc Gregoire, ChatGPT y cppreference.com
