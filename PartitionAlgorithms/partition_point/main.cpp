@@ -1,3 +1,12 @@
+/* Algorithm name: partition_point
+
+   Algorithm synopsis: returns an iterator such that all elements before this
+   iterator return true for a predicate and all elements after this iterator
+   return false for that predicate
+   
+   Complexity: logarithmic
+*/
+
 #include <algorithm>
 #include <array>
 #include <iostream>
