@@ -5,7 +5,8 @@ They also include a number of counting algorithms.
 Search algorithms, these algorithms do not require the sequence to be sorted. N is the size of the sequence
 to search in, and M is the size of the pattern to find.
 
-Comparison algorithms.
+Comparison algorithms. These algorithms have the advantage that you can compare sequences from different containers.
+
 
 OtherAlgorithms.
 
@@ -20,6 +21,12 @@ Partition algorithms, a sequence is partitioned on  acertain predicate, if all e
 returns true are before all elements for wich it returns false. The first element in the sequence that does
 not satisfy the predicate is called the particular point.
 
-Sorting algorithms.
+Binary search algoritms, that work only sequences that are sorted or that are at least partitioned on the
+element that is searched for.
+
+Sorting algorithms reorders the contents of a container such that an ordering is maintained between sequential
+elements of the collection.
+
+
 
 Literatura consultada C++ Professional by Marc Gregoire, ChatGPT y cppreference.com
