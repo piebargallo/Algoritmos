@@ -27,6 +27,8 @@ element that is searched for.
 Sorting algorithms reorders the contents of a container such that an ordering is maintained between sequential
 elements of the collection.
 
+Set algorithms, are special modifying algorithms that perfom set operations on sequences.
+
 
 
 Literatura consultada C++ Professional by Marc Gregoire, ChatGPT y cppreference.com
